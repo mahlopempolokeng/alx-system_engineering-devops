@@ -1,1 +1,1 @@
-james bond
+mirror permission
