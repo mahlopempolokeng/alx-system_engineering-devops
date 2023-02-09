@@ -1,1 +1,1 @@
-multiple_permissions
+permissions
