@@ -1,2 +1,2 @@
 #!/bin/bash
-// replace_AC_ZE_test.c
+tr Ac Ze
